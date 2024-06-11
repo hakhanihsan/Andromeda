@@ -1,40 +1,40 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+<h1 align="center">Andromeda One UI Enhancer</h1>
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v3.7-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-April 24, 2024-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-  <!-- Min Magisk -->
-    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-  <!-- Min KSU -->
-    <img src="https://img.shields.io/badge/MinKernelSU-0.6.6-red.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" /></div>
+Andromeda is a KernelSU module that enables additional One UI features on Samsung Galaxy devices. This is the exclusice version of the module for Samsung Galaxy A54 5G.
 
-<div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. Instructions in the 
-    <h3><a href="https://github.com/Zackptg5/MMT-Extended/wiki">Wiki</a></h3><h4>Also supports KSU</h4>
-</div>
+<h2>Features</h2>
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
-  </h3>
-</div>
+1. App Lock
+2. S Secure
+3. Storage Booster
+4. Ultra Data Saving
+5. Alt Z Life
+6. Network Speed Indicator
+7. Mobile Data Switch in Power Menu
+8. Useful Cards in Samsung Messages
+9. VoLTE Quick System Toggle
+10. 5 RSSI Levels in Status Bar
+11. Assistant Application Chooser
+12. Data Usage in Quick Panel
+13. Call Recording
+14. Secure Wi-Fi
+15. VoLTE Call Switch
+16. Network Mode Selection
+17. Fully Editable Samsung Internet Bookmarks
+18. OOBE All Checkable Application Downloads
+19. Daily Board
+20. Smart Manager China
+21. Advanced Call Blocking
+22. Galaxy S23 FE Wallpapers
+23. Secure Folder Support
+24. Over the Horizon 2018 Ringtone & Media Preview
+25. Camera Privacy Toggle
+26. AOD Clock Transition Effect
+27. Flagship Launcher Animations
+28. Framed Edge Lighting and much more!
 
-### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+<h2>About</h2>
+
+**Version:** v1.0.3.cxe2  
+**Updated:** June 11, 2024  
+**Author:** HaKhan Ihsan
