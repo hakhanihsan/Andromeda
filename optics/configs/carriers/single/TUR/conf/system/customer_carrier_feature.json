@@ -1,0 +1,48 @@
+{
+    "version": "5",
+    "mapped_cid_version": "140055",
+    "customer": [
+        {
+            "carrier_group": "TUR",
+            "feature": {
+                "CarrierFeature_RIL_ConfigNetworkTypeCapability": "EUR-EUR-GSM-EUR",
+                "CarrierFeature_RIL_DisplayAntennaLimited": "TRUE",
+                "CarrierFeature_RIL_E911RoutingPolicy": "auto",
+                "CarrierFeature_RIL_GcfSor": "TRUE",
+                "CarrierFeature_RIL_ReferEonsWithoutLac": "TRUE",
+                "CarrierFeature_RIL_SupportImsClirOverriding": "TRUE",
+                "CarrierFeature_RIL_SupportVolte": "TRUE",
+                "CarrierFeature_SystemUI_ConfigOpBrandingForIndicatorIcon": "TUR",
+                "CarrierFeature_VoiceCall_ConfigOpStyleForHdIcon": "GSM_HD",
+                "CarrierFeature_VoiceCall_ConfigOpStyleForMobileNetSetting": "voltesettingscommon,voltesettingEUR,checksimwithoutsetting",
+                "CarrierFeature_VoiceCall_ConfigOpStyleMobileNetworkSettingMenu": "+voltecall,-45gmode"
+            }
+        }
+    ],
+    "specific": [
+        {
+            "canonical_id": "1737",
+            "feature": {
+                "CarrierFeature_Common_CarrierGroup": "TUR"
+            }
+        },
+        {
+            "canonical_id": "10383",
+            "feature": {
+                "CarrierFeature_Common_CarrierGroup": "TUR"
+            }
+        },
+        {
+            "canonical_id": "30048",
+            "feature": {
+                "CarrierFeature_Common_CarrierGroup": "TUR"
+            }
+        },
+        {
+            "canonical_id": "30318",
+            "feature": {
+                "CarrierFeature_Common_CarrierGroup": "TUR"
+            }
+        }
+    ]
+}

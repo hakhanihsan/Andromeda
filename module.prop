@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=Andromeda
+name=Andromeda One UI Optimiser
+version=v1.0.3.cxe2
+versionCode=10361
+author=HaKhan Ihsan
+description=Andromeda is a KernelSU module that enables additional One UI features on Samsung Galaxy devices. This is the exclusice version of the module for Samsung Galaxy A54 5G. Tested on A546EXXS8CXE2 firmware.

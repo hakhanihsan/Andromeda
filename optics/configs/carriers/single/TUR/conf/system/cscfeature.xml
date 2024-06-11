@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Samsung Proprietary Mobile Feature, Taken From A546EXXS8CXE2 Firmware -->
+<SamsungMobileFeature>
+  <Version>ED00005</Version>
+  <Country>TURKEY</Country>
+  <CountryISO>TR</CountryISO>
+  <SalesCode>TUR</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_ConfigEffectsVideoCall>2MIC;VOICE</CscFeature_Audio_ConfigEffectsVideoCall>
+    <CscFeature_Calendar_SetColorOfDays>XXXXXRR</CscFeature_Calendar_SetColorOfDays>
+    <!-- Edit, Phone Places Section -->
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,whitepages</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <!-- Addition, Yuva Features -->
+    <CscFeature_Common_ConfigYuva>AIBokeh|mileage|dashboard|setupmygalaxystories|downloadable_spowerplanning|sprotect|downloadable_sprotect|downloadable_usbbackup|MemorySaver|MemorySaver_Refresh|MemorySaver_MOVE_CONTENT_TO_SDCARD_NOT_SUPPORTING</CscFeature_Common_ConfigYuva>
+    <!-- Addition, Alt Z Life -->
+    <CscFeature_Common_SupportPrivateMode>TRUE</CscFeature_Common_SupportPrivateMode>
+    <!-- Addition, Network Speed Indicator -->
+    <CscFeature_Common_SupportZProjectFunctionInGlobal>TRUE<CscFeature_Common_SupportZProjectFunctionInGlobal>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_Email_AlignmentForRTL>TRUE</CscFeature_Email_AlignmentForRTL>
+    <!-- Addition, Power Menu Mobile Data Switch -->
+    <CscFeature_Framework_SupportDataModeSwitchGlobalAction>TRUE</CscFeature_Framework_SupportDataModeSwitchGlobalAction>
+    <!-- Addition, Alt Z Life -->
+    <CscFeature_Gallery_SupportAliveZoom>TRUE</CscFeature_Gallery_SupportAliveZoom>
+    <CscFeature_GMS_SetClientIDBaseCr>android-samsung-trvo1</CscFeature_GMS_SetClientIDBaseCr>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-trvo1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SetClientIDBaseVs>android-samsung-trvo1</CscFeature_GMS_SetClientIDBaseVs>
+    <!-- Addition, Messages Useful Cards Section -->
+    <CscFeature_Message_SupportUsefulcard>TRUE</CscFeature_Message_SupportUsefulcard>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_Setting_ConfigAboutDeviceItems>fcc=disabled;</CscFeature_Setting_ConfigAboutDeviceItems>
+    <CscFeature_Setting_DisableIsraelCountry>TRUE</CscFeature_Setting_DisableIsraelCountry>
+    <!-- Addition, Alt Z Life -->
+    <CscFeature_Sip_ConfigAlivePrediction>multilingual</CscFeature_Sip_ConfigAlivePrediction>
+    <!-- Removal, Honeyboard Gif Section, CscFeature_Sip_ConfigWhetherToProvideGif="disable" -->
+    <!-- Addition, Smart Manager Features -->
+    <CscFeature_SmartManager_ConfigSubFeatures>applock|appcleanner|autolaunch|autorestart|devicesecurity|storageclean|backgroundapp|chinadualpage|UDS|UDS2|applicationpermission|networkpowersaving|notificationmanager|trafficmanager|roguepopup|data_compression|cstyle</CscFeature_SmartManager_ConfigSubFeatures>
+    <!-- Addition, Ultra Data Saving -->
+    <CscFeature_SmartManager_ConfigUdsSubFeatures>videocompression|uploadcompression</CscFeature_SmartManager_ConfigUdsSubFeatures>
+    <!-- Addition, Status Bar NFC Indicator -->
+    <CscFeature_SystemUI_ConfigDefIndicatorAdditionalSystemIcon>nfc</CscFeature_SystemUI_ConfigDefIndicatorAdditionalSystemIcon>
+    <!-- Addition, VoLTE Toggle and Quick Panel Layout-->
+    <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SoundMode,Bluetooth,RotationLock,AirplaneMode,Flashlight,BatteryMode,PowerShare,MobileData,Hotspot,WindowsLink,QRScanner,BlueLightFilter,Location,AllShareCast,Dnd,ShareLive,DesktopMode,NearbyShare,SecureFolder,Nfc,Aod,ScreenCapture,ScreenRecorder,DeviceVisibility,Sync,UDS,PowerPlanning,EdgeLighting,InstantSession,Dolby,SpenRemote,KidsHome,NightMode,Routines,VoLte,WifiCalling,PowerKeySetting,FocusMode,CMC,SideKick,DailyBoard</CscFeature_SystemUI_ConfigDefQuickSettingItem>
+    <!-- Addition, 5 RSSI Levels -->
+    <CscFeature_SystemUI_ConfigMaxRssiLevel>5</CscFeature_SystemUI_ConfigMaxRssiLevel>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>TUR</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <!-- Addition, Assistant Application Chooser -->
+    <CscFeature_SystemUI_SupportAssistanceAppChooser>TRUE</CscFeature_SystemUI_SupportAssistanceAppChooser>
+    <!-- Addition, Smart Manager China Quick Panel Data Usage -->
+    <CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>TRUE</CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>
+    <!-- Addition, Call Recording Menu -->
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowedByMenu</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_VT_SupportAddCall>TRUE</CscFeature_VT_SupportAddCall>
+    <CscFeature_VT_SupportMerge>TRUE</CscFeature_VT_SupportMerge>
+    <!-- Addition, Tencent Wi-Fi Security -->
+    <CscFeature_Wifi_ConfigSecureSvcIntegration>TencentSecurityWiFi</CscFeature_Wifi_ConfigSecureSvcIntegration>
+    <!-- Addition, Wi-Fi Advanced Menu -->
+    <CscFeature_Wifi_SupportAdvancedMenu>TRUE</CscFeature_Wifi_SupportAdvancedMenu>
+    <!-- Addition, Secure Wi-Fi -->
+    <CscFeature_Wifi_SupportSecureWifi>TRUE</CscFeature_Wifi_SupportSecureWifi>
+  </FeatureSet>
+</SamsungMobileFeature>
