@@ -13,8 +13,6 @@ REPLACE="
 /system/etc/default-permissions
 /system/etc/permissions
 /system/framework
-/system/media/audio/ringtones/SoundTheme/Galaxy
-/system/media/audio/ui
 /system/priv-app/AppLock
 /system/priv-app/AppLock/oat/arm64
 /system/priv-app/Firewall
@@ -22,7 +20,6 @@ REPLACE="
 /system/priv-app/SmartManager_v5
 /system/priv-app/SmartManager_v5/oat/arm64
 /system/priv-app/SmartManager_v6_DeviceSecurity
-/system/priv-app/wallpaper-res
 "
 
 # Module Logic

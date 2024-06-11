@@ -25,9 +25,7 @@ Andromeda is a KernelSU module that enables additional One UI features on Samsun
 19. Daily Board
 20. Smart Manager China
 21. Advanced Call Blocking
-22. Galaxy S23 FE Wallpapers
 23. Secure Folder Support
-24. Over the Horizon 2018 Ringtone & Media Preview
 25. Camera Privacy Toggle
 26. AOD Clock Transition Effect
 27. Flagship Launcher Animations
