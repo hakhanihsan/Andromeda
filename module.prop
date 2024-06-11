@@ -1,6 +1,7 @@
 id=Andromeda
-name=Andromeda One UI Optimiser
+name=Andromeda One UI Enhancer
 version=v1.0.3.cxe2
 versionCode=10361
 author=HaKhan Ihsan
 description=Andromeda is a KernelSU module that enables additional One UI features on Samsung Galaxy devices. This is the exclusice version of the module for Samsung Galaxy A54 5G. Tested on A546EXXS8CXE2 firmware.
+updateJson=https://raw.githubusercontent.com/hakhanihsan/Andromeda/master/update.json
