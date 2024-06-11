@@ -1,6 +1,6 @@
 <h1 align="center">Andromeda One UI Enhancer</h1>
 
-Andromeda is a KernelSU module that enables additional One UI features on Samsung Galaxy devices. This is the exclusice version of the module for Samsung Galaxy A54 5G.
+Andromeda is a KernelSU module that enables additional One UI features on Samsung Galaxy devices. This is the exclusice version of the module for Samsung Galaxy A54 5G. The module itself currently supports only Turkey (TUR) CSC, but it is expected to be universal in future releases.
 
 <h2>Features</h2>
 
