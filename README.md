@@ -53,6 +53,6 @@ Samsung Galaxy A54 5G with A546EXXSBCXL3 (Android 14 / One UI 6.1) firmware is f
 
 <h2>About</h2>
 
-**Version:** [v1.0.4.cxl3]()  
+**Version:** [v1.0.4.cxl3](https://github.com/hakhanihsan/Andromeda/releases/download/v1.0.4.cxl3/Andromeda-v1.0.4.cxl3.zip)  
 **Updated:** December 29, 2024  
 **Author:** [HaKhan Ihsan](https://github.com/hakhanihsan)
