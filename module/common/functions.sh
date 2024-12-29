@@ -1,9 +1,3 @@
-##########################################################################################
-#
-# MMT Extended Utility Functions
-#
-##########################################################################################
-
 require_new_ksu() {
   ui_print "**********************************"
   ui_print " Please install KernelSU v0.6.6+! "
@@ -145,12 +139,6 @@ mount_mirrors() {
     mount -o ro $i $ORIGDIR$i
   done
 }
-
-# Credits
-ui_print "**************************************"
-ui_print "*   MMT Extended by Zackptg5 @ XDA   *"
-ui_print "**************************************"
-ui_print " "
 
 # Check for min/max api version
 [ -z $MINAPI ] || { [ $API -lt $MINAPI ] && abort "! Your system API of $API is less than the minimum api of $MINAPI! Aborting!"; }

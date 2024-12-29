@@ -1,7 +1,0 @@
-id=AndromedaEdge
-name=Andromeda Edge Add-On
-version=v1.0.3.cxe2
-versionCode=10361
-author=HaKhan Ihsan
-description=Andromeda Edge is an add-on that enables Secure Folder support. This is the exclusice version of the module for Samsung Galaxy A54 5G. Tested on A546EXXS8CXE2 firmware.
-updateJson=https://raw.githubusercontent.com/hakhanihsan/Andromeda/master/update_edge.json

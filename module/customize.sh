@@ -5,21 +5,8 @@ PARTITIONS="/optics /prism"
 
 # Replace list
 REPLACE="
-/system/app/DailyBoard
-/system/app/DailyBoard/oat/arm64
-/system/app/TencentWifiSecurity
-/system/app/TencentWifiSecurity/oat/arm64
-/system/etc
-/system/etc/default-permissions
-/system/etc/permissions
-/system/framework
-/system/priv-app/AppLock
-/system/priv-app/AppLock/oat/arm64
-/system/priv-app/Firewall
-/system/priv-app/Firewall/oat/arm64
-/system/priv-app/SmartManager_v5
-/system/priv-app/SmartManager_v5/oat/arm64
-/system/priv-app/SmartManager_v6_DeviceSecurity
+/system/etc/floating_feature.xml
+/system/framework/services.jar
 "
 
 # Module Logic
