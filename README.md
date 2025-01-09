@@ -24,10 +24,9 @@
 18. S Secure
 19. Secure Folder
 20. Storage Booster
-21. Ultra Data Saving
-22. Useful Cards in Samsung Messages
-23. VoLTE Call Switch
-24. VoLTE Quick System Toggle and much more!
+21. Useful Cards in Samsung Messages
+22. VoLTE Call Switch
+23. VoLTE Quick System Toggle and much more!
 
 <h2>Installation</h2>
 

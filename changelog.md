@@ -1,3 +1,6 @@
+# v1.0.5.cxl3
+* Removed Ultra Data Saving as it crashes the data usage menu in settings.
+
 # v1.0.4.cxl3
 * Updated module to work with new firmware.
 * China-related things removed (Smart Manager, Blocked calls & msgs)

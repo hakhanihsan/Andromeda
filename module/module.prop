@@ -1,7 +1,7 @@
 id=Andromeda
 name=Andromeda
-version=v1.0.4.cxl3
-versionCode=104610
+version=v1.0.5.cxl3
+versionCode=105610
 author=HaKhan Ihsan
 description=A KernelSU module that enables additional One UI features for Samsung Galaxy A54 5G.
 updateJson=https://raw.githubusercontent.com/hakhanihsan/Andromeda/master/update.json

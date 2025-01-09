@@ -36,9 +36,7 @@
     <CscFeature_Sip_ConfigAlivePrediction>multilingual</CscFeature_Sip_ConfigAlivePrediction>
     <!-- Removal, Honeyboard GIF Section, CscFeature_Sip_ConfigWhetherToProvideGif="disable" -->
     <!-- Addition, Smart Manager Features -->
-    <CscFeature_SmartManager_ConfigSubFeatures>applock|appcleanner|autolaunch|autorestart|devicesecurity|storageclean|backgroundapp|chinadualpage|UDS|UDS2|applicationpermission|networkpowersaving|notificationmanager|trafficmanager|roguepopup|data_compression|cstyle</CscFeature_SmartManager_ConfigSubFeatures>
-    <!-- Addition, Ultra Data Saving -->
-    <CscFeature_SmartManager_ConfigUdsSubFeatures>videocompression|uploadcompression</CscFeature_SmartManager_ConfigUdsSubFeatures>
+    <CscFeature_SmartManager_ConfigSubFeatures>applock|appcleanner|autolaunch|autorestart|devicesecurity|storageclean|backgroundapp|chinadualpage|applicationpermission|networkpowersaving|notificationmanager|trafficmanager|roguepopup|cstyle</CscFeature_SmartManager_ConfigSubFeatures>
     <!-- Addition, VoLTE Toggle and Quick Panel Layout -->
     <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SoundMode,Bluetooth,RotationLock,AirplaneMode,Flashlight,BatteryMode,PowerShare,MobileData,Hotspot,WindowsLink,QRScanner,BlueLightFilter,Location,AllShareCast,Dnd,ShareLive,DesktopMode,NearbyShare,SecureFolder,Nfc,Aod,ScreenCapture,ScreenRecorder,DeviceVisibility,Sync,UDS,PowerPlanning,EdgeLighting,InstantSession,Dolby,SpenRemote,KidsHome,NightMode,Routines,VoLte,WifiCalling,PowerKeySetting,FocusMode,CMC,SideKick,DailyBoard</CscFeature_SystemUI_ConfigDefQuickSettingItem>
     <!-- Addition, 5 RSSI Levels -->
